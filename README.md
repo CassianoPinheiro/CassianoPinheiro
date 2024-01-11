@@ -9,7 +9,7 @@
   <details>
     <summary>🙋 More about me </summary>
   
-  - 📃 I am 24 yars old, currently living in Brazil, i'm studying english in [FluencyPass](https://fluencypass.com), i have experience in SQL, Java, Java Script, HTML, CSS, NodeJs, Figma...
+  - 📃 I am 24 years old, currently living in Brazil, i'm studying english in [FluencyPass](https://fluencypass.com), i have experience in SQL, Java, Java Script, HTML, CSS, NodeJs, Figma...
     
   - ⚡ I like watching movies, playing games, running, comics! I seek to contribute to front-end and UI and UX design projects.
   </details>
